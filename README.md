@@ -28,6 +28,9 @@ Chandigarh, India • taanmalhotra@gmail.com • [LinkedIn](https://linkedin.com
 
 ---
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/TanishaMalhotra?theme=forest&font=Oxygen&ext=heatmap)
+
+---
 ## 💡 Core Competencies
 
 **Architecture:** Frontend Architecture, Design Systems, Micro-Frontend Integration  
