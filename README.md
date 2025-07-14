@@ -43,7 +43,7 @@ Chandigarh, India • taanmalhotra@gmail.com • [LinkedIn](https://linkedin.com
 
 ## 🚀 Professional Experience
 
-**5+ Years in Frontend Development & System Design**
+**6+ Years in Frontend Development & System Design**
 
 🏢 Oracle – Software Developer II (2022–Present)  
 🛠️ Working on desktop UI (Java Swing, Java), SDK integration, and system plugins for Oxygen XML Editor  
